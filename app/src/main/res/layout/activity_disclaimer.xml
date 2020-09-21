@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFF0F0"
+    android:layout_height="match_parent"
+    tools:context=".DisclaimerActivity">
+
+
+
+    <ScrollView
+        android:id="@+id/scrollViewdisclaimer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Disclaimer"
+                android:textColor="#000"
+                android:layout_gravity="center_horizontal"
+                android:textSize="25sp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/gilroy_bold"
+                />
+
+
+            <androidx.core.widget.NestedScrollView
+                android:id="@+id/scrollView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="08dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="15dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/gilroy_light"
+                        android:gravity="left"
+                        android:textStyle="italic"
+                        android:text="By installing and using the application / using the website, you agree to the terms of use and the privacy policy.                         "
+                        android:textColor="#000"
+                        android:textSize="17dp" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:fontFamily="@font/gilroy_light"
+                        android:gravity="left"
+                        android:textStyle="italic"
+                        android:text="By clicking on 'Accept and Begin the Survey' below you hereby acknowledge that you have read this very carefully and understand it and than agreed to all terms and conditions set forth in the terms of use and the Privacy Policy.                        "
+                        android:textColor="#000"
+                        android:textSize="17dp" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:fontFamily="@font/gilroy_light"
+                        android:gravity="left"
+                        android:textStyle="italic"
+                        android:text="If you do not agree with any terms and conditions set forth in the terms of use or the privacy policy, do not check the boxes below and exit from this screen.           "
+                        android:textColor="#000"
+                        android:textSize="17dp"
+                        />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:fontFamily="@font/gilroy_light"
+                        android:gravity="left"
+                        android:textStyle="italic"
+                        android:text="If you are acting on behalf of an organization, you represent that you are authorized to act on behalf of such organization and that your acceptance of the terms of this agreement creates a legally enforceable obligation of the particular organization.           "
+                        android:textColor="#000"
+                        android:textSize="17dp" />
+
+
+                    <CheckBox
+                        android:id="@+id/checkBox1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="10dp"
+                        android:textColor="#000"
+                        android:fontFamily="@font/gilroy_bold"
+
+                        android:text="I Agree to this Software and Service agreement"
+                        android:textSize="15dp" />
+
+
+                </LinearLayout>
+
+            </androidx.core.widget.NestedScrollView>
+
+            <Button
+                android:id="@+id/buttonaccept"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:enabled="true"
+                android:layout_gravity="end"
+                android:background="@color/colorButtonAccept"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/gilroy_bold"
+                android:text="Accept Begin the Survey"
+                android:textAllCaps="false"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:textColor="#fff" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>

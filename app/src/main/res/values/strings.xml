@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Test COVID-19 </string>
+
+    <string name="about_covid">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.</string>
+
+
+    <string name="congratulations">Congratulations, You are Safe and Secure</string>
+    <string name="takecare">Now you have to take care of yourself and your family. And maintain this.</string>
+
+
+    <string name="takemed">Sorry, You may have Infected</string>
+    <string name="oh_bad">Ohh you come at right time because you may have Infected with COVID 19.</string>
+
+    <string name="takeflu">"Good, It's Just a flu"</string>
+    <string name="oh_flu">Don"t Worry its does not shows the symptoms of COVID 19.</string>
+
+
+    <string name="takeyourself">Sorry, You are Infected with COVID 19</string>
+    <string name="oh_very_bad">Please go for checkup near by hospital and be ready for Self Quarantine in home or hospital. It may affect your family so please beware.  </string>
+
+    <string name="engquestion_1">Question 1</string>
+    <string name="engquestion_2">Question 2 </string>
+    <string name="engquestion_3">Question 3 </string>
+    <string name="engquestion_4">Question 4 </string>
+    <string name="engquestion_5">Question 5 </string>
+    <string name="engquestion_6">Question 6 </string>
+    <string name="engquestion_7">Question 7 </string>
+    <string name="engquestion_8">Question 8 </string>
+    <string name="engquestion_9">Question 9 </string>
+    <string name="engquestion_10">Question 10 </string>
+    <string name="engquestion_11">Question 11</string>
+    <string name="engquestion_12">Question 12 </string>
+
+    <string name="engquestionfull_1">Do you have Cough.</string>
+    <string name="engquestionfull_1_2">Which type of Cough do you have.</string>
+
+    <string name="engquestionfull_2">Do you have Fever.</string>
+    <string name="engquestionfull_2_2">How much Fever do you have.</string>
+
+    <string name="engquestionfull_3">Do you feel tiredness.</string>
+    <string name="engquestionfull_4">Do you have Body pain or Headache.</string>
+    <string name="engquestionfull_5">Do you have any Throat issues.</string>
+    <string name="engquestionfull_6">Do you have problem of Diarrhea.</string>
+    <string name="engquestionfull_7">Do you have lost your sense of Smell and Taste.</string>
+    <string name="engquestionfull_8">Do you have problem of Shortness in Breath.</string>
+    <string name="engquestionfull_9">Have you been in close contact with a laboratory confirmed COVID-19 Patient during this panic situation.</string>
+    <string name="engquestionfull_10">Have you traveled to a high risk or red zone area in your country during this panic situation.</string>
+    <string name="engquestionfull_10_2">Name the place or area you visited during this panic situation.</string>
+
+    <string name="engquestionfull_11">Do you have a chronic illnesses like Heart , Lungs , Kidney disease , Diabetes or are immunocompromised like HIV , Autoimmune diseases and etc.</string>
+    <string name="engquestionfull_11_2">Name that chronic illnesses or immunocompromised disease you have.</string>
+
+    <string name="engquestionfull_12">Do you feel illness.</string>
+    <string name="engquestionfull_12_2">From when you are feeling sickness.</string>
+
+
+    <string name="question_yes">Yes </string>
+    <string name="question_no">No </string>
+
+    <string name="question_dry">Dry </string>
+    <string name="question_cold">Cold </string>
+
+    <string name="question_one_2days">1 - 2 Days </string>
+    <string name="question_three_4days">3 - 4 Days </string>
+    <string name="question_five_6days">5 - 6 Days </string>
+
+    <string name="question_low">Low  </string>
+    <string name="question_medium">Medium  </string>
+    <string name="question_high">High  </string>
+
+
+    <string name="hindiquestion_1">सवाल १</string>
+    <string name="hindiquestion_2">सवाल २</string>
+    <string name="hindiquestion_3">सवाल ३</string>
+    <string name="hindiquestion_4">सवाल ४</string>
+    <string name="hindiquestion_5">सवाल ५</string>
+    <string name="hindiquestion_6">सवाल ६</string>
+    <string name="hindiquestion_7">सवाल ७</string>
+    <string name="hindiquestion_8">सवाल ८</string>
+    <string name="hindiquestion_9">सवाल ९</string>
+    <string name="hindiquestion_10">सवाल १०</string>
+    <string name="hindiquestion_11">सवाल ११</string>
+    <string name="hindiquestion_12">सवाल १२</string>
+
+
+    <string name="hindiquestionfull_1">क्या आपको खांसी है।</string>
+    <string name="hindiquestionfull_1_2">आपको किस प्रकार की खांसी है।</string>
+
+    <string name="hindiquestionfull_2">क्या आपको बुखार है।</string>
+    <string name="hindiquestionfull_2_2">आप को कितना बुखार है।</string>
+
+
+    <string name="hindiquestionfull_3">क्या आपको थकान महसूस होती है।</string>
+    <string name="hindiquestionfull_4">क्या आपको शरीर में दर्द या सिरदर्द है।</string>
+    <string name="hindiquestionfull_5">क्या आपके गले में समस्या हैै।</string>
+    <string name="hindiquestionfull_6">क्या आपको दस्त है।</string>
+    <string name="hindiquestionfull_7">क्या आप अपनी गंध और स्वाद खो चुके हैं।</string>
+    <string name="hindiquestionfull_8">क्या आपको सांस लेने में तकलीफ है।</string>
+    <string name="hindiquestionfull_9">क्या आप इस आतंक की स्थिति के दौरान COVID-19 रोगी की पुष्टि की गई प्रयोगशाला से निकट संपर्क में हैं।</string>
+    <string name="hindiquestionfull_10">क्या आपने इस घबराहट की स्थिति में अपने देश में उच्च जोखिम या रेड जोन क्षेत्र की यात्रा की है।</string>
+    <string name="hindiquestionfull_10_2">इस दहशत की स्थिति के दौरान आपके द्वारा देखे गए स्थान या क्षेत्र का नाम दें।</string>
+
+    <string name="hindiquestionfull_11">क्या आपको कोई पुरानी बीमारी जैसे हार्ट, लंग्स, किडनी की बीमारी, डायबिटीज है या इम्यूनोकॉम्प्रोमाइज्ड हैं जैसे एचआईवी, ऑटोइम्यून बीमारियां और आदि।</string>
+    <string name="hindiquestionfull_11_2">नाम है कि पुरानी बीमारियों या immunocompromised रोग आपके पास है।</string>
+
+
+    <string name="hindiquestionfull_12">क्या आप बीमार महसूस करते हैं।</string>
+    <string name="hindiquestionfull_12_2">कब से आप बीमारी महसूस कर रहे हैं।</string>
+
+
+    <string name="hindiquestion_yes">हाँ </string>
+    <string name="hindiquestion_no">नहीं </string>
+
+    <string name="hindiquestion_dry">सूखा </string>
+    <string name="hindiquestion_cold">सर्दी </string>
+
+    <string name="hindiquestion_one_2days">१ - २ दिन </string>
+    <string name="hindiquestion_three_4days">३ - ४ दिन </string>
+    <string name="hindiquestion_five_6days">५ - ६ दिन </string>
+
+    <string name="hindiquestion_low">कम  </string>
+    <string name="hindiquestion_medium">मध्यम  </string>
+    <string name="hindiquestion_high">उच्च  </string>
+
+    <string name="hindibuttonnext">अगला सवाल </string>
+
+
+</resources>
