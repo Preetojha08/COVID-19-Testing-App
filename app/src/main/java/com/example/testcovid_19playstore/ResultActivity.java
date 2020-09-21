@@ -15,6 +15,7 @@ import org.w3c.dom.Text;
 public class ResultActivity extends AppCompatActivity {
 
     int final_score;
+    int a = 0;
     TextView tv1,tv2;
     ImageView img;
 
@@ -35,6 +36,7 @@ public class ResultActivity extends AppCompatActivity {
     {
         Intent p = getIntent();
         final_score = p.getIntExtra("Score",0);
+        a++;
 
             String score_string = String.valueOf(final_score);
 
