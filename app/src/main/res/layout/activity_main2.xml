@@ -66,11 +66,12 @@
                     android:textSize="20sp" />
 
                 <TextView
-                    android:id="@+id/txtInfected"
+                    android:id="@+id/txt_view_Infected"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/gilroy_bold"
-                    android:text="11,474,605"
+                    android:freezesText="true"
+                    android:text="0,000,000"
                     android:textAlignment="center"
                     android:textColor="@color/colorRed"
                     android:textSize="20sp" />
@@ -111,11 +112,12 @@
                         android:textSize="20sp" />
 
                     <TextView
-                        android:id="@+id/txtRecoverd"
+                        android:id="@+id/txt_view_Recoverd"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/gilroy_bold"
-                        android:text="11,063,025"
+                        android:text="0,000,000"
+                        android:freezesText="true"
                         android:textAlignment="center"
                         android:textColor="@color/colorGreen"
                         android:textSize="20sp" />
@@ -151,11 +153,12 @@
                         android:textSize="20sp" />
 
                     <TextView
-                        android:id="@+id/txtDeceased"
+                        android:id="@+id/txt_view_Deceased"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/gilroy_bold"
-                        android:text="159,250"
+                        android:text="000,000"
+                        android:freezesText="true"
                         android:textAlignment="center"
                         android:textColor="@color/colorGray"
                         android:textSize="20sp" />
