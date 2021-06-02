@@ -19,8 +19,6 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-
-
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -70,7 +68,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -123,7 +121,7 @@
                 android:padding="15dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginStart="@dimen/_15sdp"
-                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="0dp"
                 app:cardCornerRadius="10dp"
@@ -142,7 +140,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -194,7 +192,7 @@
                 android:padding="15dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginStart="@dimen/_15sdp"
-                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="0dp"
                 app:cardCornerRadius="10dp"
@@ -213,7 +211,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -221,7 +219,7 @@
                             android:layout_width="40dp"
                             android:layout_height="40dp"
                             android:layout_margin="10dp"
-                            android:src="@drawable/tiredness"
+                            android:src="@drawable/sneeze"
                             />
 
                     </RelativeLayout>
@@ -292,7 +290,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:layout_marginStart="@dimen/_15sdp"
-                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="0dp"
                 app:cardCornerRadius="10dp"
@@ -310,7 +308,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -318,7 +316,7 @@
                             android:layout_width="40dp"
                             android:layout_height="40dp"
                             android:layout_margin="10dp"
-                            android:src="@drawable/nose"
+                            android:src="@drawable/breathing"
                             />
 
                     </RelativeLayout>
@@ -362,7 +360,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:layout_marginStart="@dimen/_15sdp"
-                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="0dp"
                 app:cardCornerRadius="10dp"
@@ -380,7 +378,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -431,7 +429,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:layout_marginStart="@dimen/_15sdp"
-                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="0dp"
                 app:cardCornerRadius="10dp"
@@ -449,7 +447,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -500,7 +498,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:layout_marginStart="@dimen/_15sdp"
-                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_10sdp"
                 android:layout_marginEnd="@dimen/_15sdp"
                 android:layout_marginBottom="20dp"
                 app:cardCornerRadius="10dp"
@@ -518,7 +516,7 @@
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:padding="10dp"
+                        android:padding="8dp"
                         android:background="@drawable/icon_bg">
 
                         <ImageView
@@ -526,7 +524,7 @@
                             android:layout_width="40dp"
                             android:layout_height="40dp"
                             android:layout_margin="10dp"
-                            android:src="@drawable/nose2"
+                            android:src="@drawable/nose"
                             />
 
                     </RelativeLayout>

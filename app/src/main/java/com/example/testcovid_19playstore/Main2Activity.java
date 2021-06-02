@@ -14,7 +14,7 @@ import android.widget.Toast;
 public class Main2Activity extends AppCompatActivity {
 
     TextView symviewall,safetyviewall;
-    Button btntest;
+    Button btntest,quarantine_act,covid_help_center;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +28,8 @@ public class Main2Activity extends AppCompatActivity {
 
         /* Button  */
         btntest=(Button)findViewById(R.id.begintest);
+        quarantine_act =(Button)findViewById(R.id.quaratine_act_button);
+        covid_help_center =(Button)findViewById(R.id.covid_help_center_button);
 
         /* Test Button on click Listener  */
         btntest.setOnClickListener(new View.OnClickListener() {
@@ -58,8 +60,23 @@ public class Main2Activity extends AppCompatActivity {
             }
         });
 
+        /* All quarantine activities Button on click Listener  */
+        quarantine_act.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent p = new Intent(Main2Activity.this,Quaratine_Act_Activity.class);
+                startActivity(p);
+            }
+        });
 
-
+        /* All Help Center list Button on click Listener  */
+        covid_help_center.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent p = new Intent(Main2Activity.this,Help_Center_Activity.class);
+                startActivity(p);
+            }
+        });
 
     }
 }

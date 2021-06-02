@@ -9,10 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
+        <activity android:name=".Help_Center_Activity" android:theme="@style/new_AppTheme" />
+        <activity android:name=".Quaratine_Act_Activity" />
         <activity android:name=".ResultActivity" />
         <activity android:name=".Testq1Activity" />
-        <activity android:name=".SafetymajorActivity" />
+        <activity
+            android:name=".SafetymajorActivity"
+            android:theme="@style/new_AppTheme" />
         <activity android:name=".UserdetailsActivity" />
         <activity android:name=".DisclaimerActivity" />
         <activity android:name=".SymptomsActivity" />

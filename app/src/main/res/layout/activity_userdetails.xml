@@ -19,7 +19,6 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -39,9 +38,6 @@
                     android:textColor="#000"
                     android:textSize="15sp" />
 
-
-
-
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -51,14 +47,12 @@
                     android:paddingLeft="@dimen/_5sdp"
                     android:paddingRight="@dimen/_5sdp">
 
-
                     <ImageView
                         android:id="@+id/imgviewone"
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:layout_gravity="center"
                         android:src="@drawable/user_name" />
-
 
                     <EditText
                         android:layout_width="280dp"
@@ -69,14 +63,9 @@
                         android:id="@+id/name_user"
                         android:hint="Enter Your Full Name" />
 
-
-
                 </LinearLayout>
 
             </LinearLayout>
-
-
-
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -162,13 +151,12 @@
                     android:paddingLeft="@dimen/_5sdp"
                     android:paddingRight="@dimen/_5sdp">
 
-
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:layout_gravity="center"
                         android:id="@+id/imgviewthreethree"
-                        android:src="@drawable/phone2"/>
+                        android:src="@drawable/gender"/>
 
 
                     <EditText
@@ -241,10 +229,6 @@
                 </LinearLayout>
 
             </LinearLayout>
-
-
-
-
 
             <LinearLayout
                 android:layout_width="wrap_content"

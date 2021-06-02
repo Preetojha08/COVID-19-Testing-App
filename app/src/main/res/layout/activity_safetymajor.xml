@@ -7,52 +7,12 @@
     android:layout_height="match_parent"
     tools:context=".SafetymajorActivity">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/customToolbar"
-        android:layout_width="match_parent"
-        android:background="@color/colorRed"
-        android:layout_height="?attr/actionBarSize"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
 
-        <FrameLayout
-            android:id="@+id/back_button"
-            android:layout_width="?attr/actionBarSize"
-            android:layout_height="?attr/actionBarSize"
-            android:background="?selectableItemBackgroundBorderless"
-            android:clickable="true"
-            android:focusable="true"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
-
-
-
-        </FrameLayout>
-
-        <androidx.appcompat.widget.AppCompatTextView
-            android:id="@+id/tips_title"
-            android:focusable="true"
-            android:clickable="true"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:textStyle="bold"
-            android:text="Safety Major for COVID-19"
-            android:textAppearance="@style/TextAppearance.AppCompat.Title"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            android:textColor="#FFFFFF"/>
-
-    </androidx.constraintlayout.widget.ConstraintLayout>
     <View
         android:id="@+id/tips_title_divider"
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:background="@color/colorLightBlue"
-        app:layout_constraintTop_toBottomOf="@id/customToolbar"
         app:layout_constraintStart_toStartOf="parent"/>
 
     <androidx.core.widget.NestedScrollView
@@ -105,7 +65,7 @@
                             android:layout_width="50dp"
                             android:layout_height="50dp"
                             android:layout_margin="10dp"
-                            android:src="@drawable/handwash"
+                            android:src="@drawable/hand_wash"
                             />
 
                     </RelativeLayout>
@@ -245,7 +205,7 @@
                             android:layout_width="50dp"
                             android:layout_height="50dp"
                             android:layout_margin="10dp"
-                            android:src="@drawable/social_distancing"
+                            android:src="@drawable/social_distance"
                             />
 
                     </RelativeLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Help_Center_Activity">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:srcCompat="@drawable/near_by_hospital"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="291dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:textColor="@color/colorRed"
+        android:textSize="20sp"
+        android:textIsSelectable="false"
+        android:textStyle="italic"
+        android:fontFamily="@font/gilroy_bold"
+        android:text="  Near by COVID Help Centers  "/>
+
+</LinearLayout>

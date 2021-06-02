@@ -10,6 +10,7 @@ public class SafetymajorActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_safetymajor);
-        getSupportActionBar().hide();
+
+        setTitle("Safety Major for COVID-19");
     }
 }
