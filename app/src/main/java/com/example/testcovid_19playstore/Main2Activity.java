@@ -49,8 +49,6 @@ public class Main2Activity extends AppCompatActivity {
         RequestQueue requestQueue = Volley.newRequestQueue(this);
         String url="https://pomber.github.io/covid19/timeseries.json";
 
-
-
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
                 (Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
 
@@ -83,7 +81,6 @@ public class Main2Activity extends AppCompatActivity {
                             e.printStackTrace();
                         }
 
-
                     }
                 }, new Response.ErrorListener() {
 
@@ -95,7 +92,6 @@ public class Main2Activity extends AppCompatActivity {
                 });
 
         requestQueue.add(jsonObjectRequest);
-
 
         /* Button  */
         btntest=(Button)findViewById(R.id.begintest);
