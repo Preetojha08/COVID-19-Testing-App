@@ -32,7 +32,6 @@
                 android:layout_marginTop="5dp"
                 android:layout_marginEnd="05dp"
                 android:layout_marginBottom="0dp"
-                android:padding="15dp"
                 app:cardCornerRadius="10dp"
                 app:cardElevation="5dp">
 
@@ -44,7 +43,6 @@
                     android:orientation="horizontal"
                     android:padding="10dp">
 
-
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -53,7 +51,7 @@
                         android:padding="05dp">
 
                         <ImageView
-                            android:layout_width="80dp"
+                             android:layout_width="80dp"
                             android:layout_height="80dp"
                             android:src="@drawable/exericse" />
 
@@ -81,7 +79,7 @@
                             android:fontFamily="@font/gilroy_light"
                             android:text="Exercise empties the mind and fills you with positivity and power. Perfect for getting in the right mindset for the day ahead. Try to do at least one gym class every day."
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
@@ -109,7 +107,6 @@
                     android:background="@drawable/back_generic"
                     android:orientation="horizontal"
                     android:padding="10dp">
-
 
                     <RelativeLayout
                         android:layout_width="wrap_content"
@@ -146,15 +143,16 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
-                            android:text="Wash your hands and start experimenting in the kitchen. It is such a fulfilling activity that we can do with our families and enjoy spending some time together, while cooking delicious cakes, or anything you really like to do."
+                            android:text="It is such a fulfilling activity that we can do with our families and enjoy spending some time together, while cooking delicious cakes and etc."
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
+
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -175,7 +173,6 @@
                     android:background="@drawable/back_generic"
                     android:orientation="horizontal"
                     android:padding="10dp">
-
 
                     <RelativeLayout
                         android:layout_width="wrap_content"
@@ -195,7 +192,6 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:gravity="center"
                         android:orientation="vertical">
 
                         <TextView
@@ -212,15 +208,16 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
-                            android:text="Find a comfy place around your house. Grab a book and get immersed in it; you don’t have any time limits or schedules to follow! It’s a fact that reading can reduce stress, and in moments like this we might be filled with anxiety and frustration. "
+                            android:text="Find a comfy place around your house. Grab a book and get immersed in it; you don’t have any time limits or schedules to follow."
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
+
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -241,7 +238,6 @@
                     android:background="@drawable/back_generic"
                     android:orientation="horizontal"
                     android:padding="10dp">
-
 
                     <RelativeLayout
                         android:layout_width="wrap_content"
@@ -278,15 +274,16 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
-                            android:text="Whether you prefer to use FaceTime, WhatsApp, Skype, HouseParty, Zoom, Netflix Party, or any other platform that you like, take a moment every day to connect with your friends."
+                            android:text="Whether you prefer to use WhatsApp, Skype, Netflix Party, or any other platform that you like, take a moment every day to connect with your friends."
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
+
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -307,7 +304,6 @@
                     android:background="@drawable/back_generic"
                     android:orientation="horizontal"
                     android:padding="10dp">
-
 
                     <RelativeLayout
                         android:layout_width="wrap_content"
@@ -344,15 +340,16 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
-                            android:text="There are no live sports to watch on TV right now (which makes all of us sports fans extremely sad). But there is something amazing going on around the world: many of the classic sports matches from history are being replayed on TV! "
+                            android:text="There are no live sports to watch on TV right now. But there is something amazing going on around the world: many of the classic sports matches from history are being replayed on TV! "
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
+
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -374,7 +371,6 @@
                     android:orientation="horizontal"
                     android:padding="10dp">
 
-
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -384,8 +380,8 @@
 
                         <ImageView
                             android:layout_width="80dp"
-                            android:padding="@dimen/_15sp"
                             android:layout_height="80dp"
+                            android:padding="@dimen/_15sp"
                             android:src="@drawable/netflix" />
 
                     </RelativeLayout>
@@ -410,15 +406,16 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
-                            android:text="We always want more and more time to watch new shows, series and movies. Well, now we have it and we have to make it count! Conveniently, the newest season of Netflix’s world famous and addictive La Casa de Papel (Money Heist) series came out just a few weeks ago."
+                            android:text="We always want more and more time to watch new shows, series and movies. The newest season of Netflix’s world famous and addictive La Casa de Papel (Money Heist) series came out just a few weeks ago."
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
+
 
             <androidx.cardview.widget.CardView
                 android:layout_width="wrap_content"
@@ -440,7 +437,6 @@
                     android:orientation="horizontal"
                     android:padding="10dp">
 
-
                     <RelativeLayout
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -449,7 +445,7 @@
                         android:padding="05dp">
 
                         <ImageView
-                            android:layout_width="80dp"
+                           android:layout_width="80dp"
                             android:layout_height="80dp"
                             android:padding="@dimen/_10sdp"
                             android:src="@drawable/language" />
@@ -476,74 +472,9 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
-                            android:text=" It is as easy as downloading an app like Duolingo, choosing the language you would like to learn and do a little bit of it every day. It’s a great way to take your mind off things and focus on a specific goal, which can help you organize yourself better during confinement."
+                            android:text=" It is as easy as downloading an app like Duolingo, choosing the language you would like to learn and do a little bit of it every day."
                             android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
-
-                    </LinearLayout>
-
-                </LinearLayout>
-
-            </androidx.cardview.widget.CardView>
-
-            <androidx.cardview.widget.CardView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginStart="05dp"
-                android:layout_marginTop="15dp"
-                android:layout_marginEnd="05dp"
-                android:layout_marginBottom="0dp"
-                android:padding="15dp"
-                app:cardCornerRadius="10dp"
-                app:cardElevation="5dp">
-
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:background="@drawable/back_generic"
-                    android:orientation="horizontal"
-                    android:padding="10dp">
-
-
-                    <RelativeLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:background="@drawable/icon_bg"
-                        android:padding="05dp">
-
-                        <ImageView
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:src="@drawable/exericse" />
-
-                    </RelativeLayout>
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:orientation="vertical">
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="10dp"
-                            android:fontFamily="@font/gilroy_bold"
-                            android:text="Do Exercise at Home"
-                            android:textColor="@color/colorBlack"
-                            android:textSize="15sp" />
-
-                        <TextView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="10dp"
-                            android:fontFamily="@font/gilroy_light"
-                            android:text="Exercise empties the mind and fills you with positivity and power. Perfect for getting in the right mindset for the day ahead. Try to do at least one gym class every day."
-                            android:textColor="@color/colorBlack"
-                            android:textSize="12sp" />
+                             android:textSize="12sp" />
 
                     </LinearLayout>
 
@@ -553,7 +484,7 @@
 
 
         </LinearLayout>
-    </androidx.core.widget.NestedScrollView>
 
+    </androidx.core.widget.NestedScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

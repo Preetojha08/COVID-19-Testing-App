@@ -177,6 +177,7 @@
 
     <string name="guj_buttonnext">આગળનો પ્રશ્ન </string>
 
+    //baki hai
     <string name="eng_home_infected_tv">Infected</string>
     <string name="eng_home_recovered_tv">Recovered</string>
     <string name="eng_home_deceased_tv">Deceased</string>
@@ -191,18 +192,60 @@
     <string name="eng_symptoms_dry_cough">Dry Cough</string>
     <string name="eng_symptoms_fever">High Fever</string>
     <string name="eng_symptoms_tiredness">Tiredness</string>
+    <string name="eng_symptoms_aches_and_pain">Aches and Pains</string>
     <string name="eng_symptoms_nasal">Nasal Congestion</string>
     <string name="eng_symptoms_throat">Sore Throat</string>
     <string name="eng_symptoms_nose">Runny Nose</string>
+
     <string name="eng_symptoms_title_common">Common Symptoms</string>
     <string name="eng_symptoms_title_special">Some People May Experience Special Symptoms</string>
+
+    <string name="eng_symptoms_dry_cough_para">A sudden, forceful hacking sound to release air and clear an irritation in the throat or airway.</string>
+    <string name="eng_symptoms_fever_para">High-grade fevers range from about 103 F-104 F. Dangerous temperatures are high-grade fevers that range from over 104 F-107 F or higher.</string>
+    <string name="eng_symptoms_tiredness_para">Feeling overtired, with low energy and a strong desire to sleep that interferes with normal daily activities.</string>
+    <string name="eng_symptoms_nasal_para">Nasal congestion can have causes that aren\'t due to underlying disease. Examples include anatomical variation, having an object stuck in the nose or dried mucus.</string>
+    <string name="eng_symptoms_throat_para">Sore throat can have causes that aren\'t due to underlying disease. Examples include overuse of voice, a burn from hot food, very dry mouth or sleeping with the mouth open.</string>
+    <string name="eng_symptoms_aches_and_pain_para">Body aches are a common symptom of many conditions. The flu is one of the most well-known conditions that can cause body aches.</string>
+    <string name="eng_symptoms_nose_para">A runny nose is excess nasal drainage. It may be a thin clear fluid, thick mucus or something in between. The drainage may run out of your nose, down the back of your throat or both. The terms rhinorrhea and rhinitis are often used to refer to a runny nose.</string>
 
     <string name="eng_safety_majors_wash_hands">Wash Your Hands Frequently</string>
     <string name="eng_safety_majors_wear_mask">Wear Mask Before Going Outside</string>
     <string name="eng_safety_majors_social_distance">Maintain Social Distancing</string>
     <string name="eng_safety_majors_touching_face">Avoid Touching Face</string>
     <string name="eng_safety_majors_respiratory">Practice Respiratory Hygiene</string>
+    <string name="eng_safety_majors_medical_care">Seek Early Medical Care</string>
+    <string name="eng_safety_majors_clean_everthing">Clean Everything</string>
+    <string name="eng_safety_majors_vitamins">Vitamins and Supplements For Immunity</string>
+    <string name="eng_safety_majors_consume_liquids">Consume Liquids</string>
+    <string name="eng_safety_majors_vaild_info">Check Only Vaild Information</string>
+    <string name="eng_safety_majors_family_time">Spend Time With Family </string>
 
+    <string name="eng_safety_majors_wash_hands_para">Regularly and thoroughly clean your hands with an alcohol - based hand sanitizer or wash them with soap and water after coming from outside and in every three hours interval.                             </string>
+    <string name="eng_safety_majors_wear_mask_para">Wear a mask if you are coughing or sneezing. Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water. If you wear a mask, then you must know how to use it and dispose of it properly.                             </string>
+    <string name="eng_safety_majors_social_distance_para">Its time to practice social distancing, which simply implies to staying at home. Maintain at least 1 metre (3 feet) distance between yourself and who is coughing or sneezing.Avoid coming in contact with people who are sick, even if they are not infected with the virus.                             </string>
+    <string name="eng_safety_majors_touching_face_para">Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. So don not touch your Face.                                    </string>
+    <string name="eng_safety_majors_respiratory_para">Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.                                                    </string>
+    <string name="eng_safety_majors_medical_care_para">If you have a fever, cough and difficulty breathing, seek medical attention, call in advance and stay at home.                                  </string>
+    <string name="eng_safety_majors_clean_everthing_para">Disinfect everything that you touch every frequently. From doorknobs, lights, handles, surfaces, TV remotes, drawers, washbasin to toilets, make sure everything is clean.                                 </string>
+    <string name="eng_safety_majors_vitamins_para">Include essential vitamin supplements like vitamin B12 with Methylcobalamin, vitamin D3, vitamin C and turmeric in your diet. Make sure you have one dose of each every single day to restore and build your immunity.              </string>
+    <string name="eng_safety_majors_consume_liquids_para">Coconut water, lemon water, water with vitamin C supplements drink as much as possible to flush the toxins and strengthen your immune system.                             </string>
+    <string name="eng_safety_majors_vaild_info_para">Lot information is available out there on TV, internet and social media. But not everything is true. Please be careful about what is read and consumed. Make sure you check the facts are right.                              </string>
+    <string name="eng_safety_majors_family_time_para">Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.                              </string>
 
+    <string name="eng_quarantine_acts_exercise">Do Exercise At Home</string>
+    <string name="eng_quarantine_acts_new_recipes">Try To Learn New Recipes</string>
+    <string name="eng_quarantine_acts_read_book">Grab A Book and Relax</string>
+    <string name="eng_quarantine_acts_friends">Connect With Friends</string>
+    <string name="eng_quarantine_acts_watch_sports">Watch Classic Sports Replays</string>
+    <string name="eng_quarantine_acts_watch_movies">Watch New Shows and Movies</string>
+    <string name="eng_quarantine_acts_learn_lang">Learn New Language</string>
+
+    <string name="eng_quarantine_acts_exercise_para">Exercise empties the mind and fills you with positivity and power. Perfect for getting in the right mindset for the day ahead. Try to do at least one gym class every day.                                 </string>
+    <string name="eng_quarantine_acts_new_recipes_para">It is such a fulfilling activity that we can do with our families and enjoy spending some time together, while cooking delicious cakes and etc.                                 </string>
+    <string name="eng_quarantine_acts_read_book_para">Find a comfy place around your house. Grab a book and get immersed in it; you don’t have any time limits or schedules to follow.                                 </string>
+    <string name="eng_quarantine_acts_friends_para">Whether you prefer to use WhatsApp, Skype, Netflix Party, or any other platform that you like, take a moment every day to connect with your friends.                                 </string>
+    <string name="eng_quarantine_acts_watch_sports_para">There are no live sports to watch on TV right now. But there is something amazing going on around the world: many of the classic sports matches from history are being replayed on TV!                                 </string>
+    <string name="eng_quarantine_acts_watch_movies_para">We always want more and more time to watch new shows, series and movies. The newest season of Netflix’s world famous and addictive La Casa de Papel (Money Heist) series came out just a few weeks ago.                                 </string>
+    <string name="eng_quarantine_acts_learn_lang_para">It is as easy as downloading an app like Duolingo, choosing the language you would like to learn and do a little bit of it every day.                                 </string>
 
 </resources>

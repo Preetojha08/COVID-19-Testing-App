@@ -90,7 +90,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
-                            android:text="Regularly and thoroughly clean your hands with an alcohol - based hand sanitizer or wash them with soap and water after coming from outside and in every three hours interval.                              "
+                            android:text="Regularly and thoroughly clean your hands with an alcohol - based hand sanitizer or wash them with soap and water after coming from outside and in every three hours interval.                                   "
                             android:fontFamily="@font/gilroy_light"
                             android:textColor="@color/colorBlack"
                             android:textSize="12sp" />
@@ -155,12 +155,13 @@
                             android:text="Wear Mask before going Outside"
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
+
                         <TextView
                             android:id="@+id/txtSymptomsDetail2"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
-                            android:text="Wear a mask if you are coughing or sneezing. Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water. If you wear a mask, then you must know how to use it and dispose of it properly.                                  "
+                            android:text="Wear a mask if you are coughing or sneezing. Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water. If you wear a mask, then you must know how to use it and dispose of it properly."
                             android:fontFamily="@font/gilroy_light"
                             android:textColor="@color/colorBlack"
                             android:textSize="12sp" />
