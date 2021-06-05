@@ -57,8 +57,8 @@
     <string name="question_yes">Yes </string>
     <string name="question_no">No </string>
 
-    <string name="question_dry">Dry </string>
-    <string name="question_cold">Cold </string>
+    <string name="question_dry">Dry Cough</string>
+    <string name="question_cold">Cold Cough</string>
 
     <string name="question_one_2days">1 - 2 Days </string>
     <string name="question_three_4days">3 - 4 Days </string>
@@ -68,6 +68,7 @@
     <string name="question_medium">Medium  </string>
     <string name="question_high">High  </string>
 
+    //Hindi Lang
 
     <string name="hindiquestion_1">सवाल १</string>
     <string name="hindiquestion_2">सवाल २</string>
@@ -123,6 +124,85 @@
     <string name="hindiquestion_high">उच्च  </string>
 
     <string name="hindibuttonnext">अगला सवाल </string>
+
+    //Gujarati
+    <string name="guj_question_1">પ્રશ્ન ૧</string>
+    <string name="guj_question_2">પ્રશ્ન ૨</string>
+    <string name="guj_question_3">પ્રશ્ન ૩</string>
+    <string name="guj_question_4">પ્રશ્ન ૪</string>
+    <string name="guj_question_5">પ્રશ્ન ૫</string>
+    <string name="guj_question_6">પ્રશ્ન ૬</string>
+    <string name="guj_question_7">પ્રશ્ન ૭</string>
+    <string name="guj_question_8">પ્રશ્ન ૮</string>
+    <string name="guj_question_9">પ્રશ્ન ૯</string>
+    <string name="guj_question_10">પ્રશ્ન ૧૦</string>
+    <string name="guj_question_11">પ્રશ્ન ૧૧</string>
+    <string name="guj_question_12">પ્રશ્ન ૧૨</string>
+
+    <string name="guj_questionfull_1">શું તમને ખાંસી છે</string>
+    <string name="guj_questionfull_1_2">તમને કઇ પ્રકારની ખાંસી છે</string>
+
+    <string name="guj_questionfull_2">શું તમને તાવ છે?</string>
+    <string name="guj_questionfull_2_2">તમને કેટલો તાવ છે</string>
+
+    <string name="guj_questionfull_3">શું તમને થાક લાગે છે</string>
+    <string name="guj_questionfull_4">શું તમને શરીરમાં દુખાવો અથવા માથાનો દુખાવો છે?</string>
+    <string name="guj_questionfull_5">શું તમને કોઈ ગળાના પ્રશ્નો છે?</string>
+    <string name="guj_questionfull_6">શું તમને ઝાડા થવાની સમસ્યા છે?</string>
+    <string name="guj_questionfull_7">શું તમે સુગંધ અને સ્વાદની ભાવના ગુમાવી દીધી છે.</string>
+    <string name="guj_questionfull_8">શું તમને શ્વાસ લેવામાં તકલીફ થાય છે.</string>
+    <string name="guj_questionfull_9">શું તમે આ ગભરાટની સ્થિતિ દરમિયાન પ્રયોગશાળા-પુષ્ટિ થયેલ COVID-19 દર્દી સાથે ગા close સંપર્કમાં રહ્યા છો.</string>
+    <string name="guj_questionfull_10">શું તમે આ ગભરાટની સ્થિતિ દરમિયાન તમારા દેશમાં ઉચ્ચ જોખમ અથવા રેડ ઝોન વિસ્તારમાં પ્રવાસ કર્યો છે?</string>
+    <string name="guj_questionfull_10_2">આ ગભરાટની સ્થિતિ દરમિયાન તમે જે સ્થળ અથવા વિસ્તારની મુલાકાત લીધી છે તેનું નામ આપો.</string>
+
+    <string name="guj_questionfull_11">શું તમને હાર્ટ, ફેફસાં, કિડની રોગ, ડાયાબિટીસ જેવી કોઈ લાંબી બીમારી છે અથવા એચ.આય.વી, સ્વયંપ્રતિરક્ષા રોગો વગેરે જેવી રોગપ્રતિકારક શક્તિ છે.</string>
+    <string name="guj_questionfull_11_2">નામ આપો કે તમને લાંબી બીમારીઓ અથવા ઇમ્યુનોકોમપ્રોમિઝ્ડ રોગ છે.</string>
+
+    <string name="guj_questionfull_12">શું તમને બીમારી લાગે છે.</string>
+    <string name="guj_questionfull_12_2">જ્યારે તમે માંદગી અનુભવો છો.</string>
+
+    <string name="guj_question_yes">હા </string>
+    <string name="guj_question_no">ના </string>
+
+    <string name="guj_question_dry">સુકી ઉધરસ </string>
+    <string name="guj_question_cold">શરદી ઉધરસ </string>
+
+    <string name="guj_question_one_2days">૧ - ૨ દિવસ </string>
+    <string name="guj_question_three_4days">૩ - ૪ દિવસ </string>
+    <string name="guj_question_five_6days">૫ - ૬ દિવસ </string>
+
+    <string name="guj_question_low">નીચા </string>
+    <string name="guj_question_medium">માધ્યમ </string>
+    <string name="guj_question_high">ઉચ્ચ </string>
+
+    <string name="guj_buttonnext">આગળનો પ્રશ્ન </string>
+
+    <string name="eng_home_infected_tv">Infected</string>
+    <string name="eng_home_recovered_tv">Recovered</string>
+    <string name="eng_home_deceased_tv">Deceased</string>
+    <string name="eng_home_symptoms_tv">Symptoms</string>
+    <string name="eng_home_safety_tv">Safety Majors</string>
+    <string name="eng_home_test_prompt_tv">Test Your Self from COVID-19</string>
+    <string name="eng_home_test_button">Begin Test</string>
+    <string name="eng_home_quarantine_act_btn">Quarantine Activities</string>
+    <string name="eng_home_covid_help_center_btn">COVID Help Centers</string>
+    <string name="eng_home_view_text_view_all">view all</string>
+
+    <string name="eng_symptoms_dry_cough">Dry Cough</string>
+    <string name="eng_symptoms_fever">High Fever</string>
+    <string name="eng_symptoms_tiredness">Tiredness</string>
+    <string name="eng_symptoms_nasal">Nasal Congestion</string>
+    <string name="eng_symptoms_throat">Sore Throat</string>
+    <string name="eng_symptoms_nose">Runny Nose</string>
+    <string name="eng_symptoms_title_common">Common Symptoms</string>
+    <string name="eng_symptoms_title_special">Some People May Experience Special Symptoms</string>
+
+    <string name="eng_safety_majors_wash_hands">Wash Your Hands Frequently</string>
+    <string name="eng_safety_majors_wear_mask">Wear Mask Before Going Outside</string>
+    <string name="eng_safety_majors_social_distance">Maintain Social Distancing</string>
+    <string name="eng_safety_majors_touching_face">Avoid Touching Face</string>
+    <string name="eng_safety_majors_respiratory">Practice Respiratory Hygiene</string>
+
 
 
 </resources>

@@ -1062,6 +1062,54 @@ public class Testq1Activity extends AppCompatActivity {
 
             btnnext.setText(R.string.hindibuttonnext);
         }
+        else if (final_lang == 2)
+        {
+            q1.setText(R.string.guj_question_1);
+            q2.setText(R.string.guj_question_2);
+            q3.setText(R.string.guj_question_3);
+            q4.setText(R.string.guj_question_4);
+            q5.setText(R.string.guj_question_5);
+            q6.setText(R.string.guj_question_6);
+            q7.setText(R.string.guj_question_7);
+            q8.setText(R.string.guj_question_8);
+            q9.setText(R.string.guj_question_9);
+            q10.setText(R.string.guj_question_10);
+            q11.setText(R.string.guj_question_11);
+            q12.setText(R.string.guj_question_12);
+
+            low.setText(R.string.guj_question_low);
+            medium.setText(R.string.guj_question_medium);
+            high.setText(R.string.guj_question_high);
+
+            dry.setText(R.string.guj_question_dry);
+            cold.setText(R.string.guj_question_cold);
+
+            o_tdays.setText(R.string.guj_question_one_2days);
+            t_fdays.setText(R.string.guj_question_three_4days);
+            f_sdays.setText(R.string.guj_question_five_6days);
+
+            tv1.setText(R.string.guj_questionfull_1);
+            tv2.setText(R.string.guj_questionfull_2);
+            tv3.setText(R.string.guj_questionfull_3);
+            tv4.setText(R.string.guj_questionfull_4);
+            tv5.setText(R.string.guj_questionfull_5);
+            tv6.setText(R.string.guj_questionfull_6);
+            tv7.setText(R.string.guj_questionfull_7);
+            tv8.setText(R.string.guj_questionfull_8);
+            tv9.setText(R.string.guj_questionfull_9);
+            tv10.setText(R.string.guj_questionfull_10);
+            tv11.setText(R.string.guj_questionfull_11);
+            tv12.setText(R.string.guj_questionfull_12);
+
+            tv1_1.setText(R.string.guj_questionfull_1_2);
+            tv2_2.setText(R.string.guj_questionfull_2_2);
+            tv10_2.setText(R.string.guj_questionfull_10_2);
+            tv11_2.setText(R.string.guj_questionfull_11_2);
+            tv12_2.setText(R.string.guj_questionfull_12_2);
+
+            btnnext.setText(R.string.guj_buttonnext);
+
+        }
 
     }
 
