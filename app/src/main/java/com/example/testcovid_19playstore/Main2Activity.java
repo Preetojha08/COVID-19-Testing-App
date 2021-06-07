@@ -351,4 +351,8 @@ public class Main2Activity extends AppCompatActivity {
         return NumberFormat.getNumberInstance(Locale.US).format(amount);
     }
 
+    @Override
+    public void onBackPressed() {
+        finishAffinity();
+    }
 }

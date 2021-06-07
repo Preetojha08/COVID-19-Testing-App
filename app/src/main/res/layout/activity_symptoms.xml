@@ -84,7 +84,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms1"
+                            android:id="@+id/txt_title_Symptoms1"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -94,7 +94,7 @@
                             android:textSize="15sp" />
 
                         <TextView
-                            android:id="@+id/txtSymptomsDetail"
+                            android:id="@+id/txt_body_SymptomsDetail1"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -156,7 +156,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms2"
+                            android:id="@+id/txt_title_Symptoms2"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -166,7 +166,7 @@
                             android:textSize="15sp" />
 
                         <TextView
-                            android:id="@+id/txtSymptomsDetail2"
+                            android:id="@+id/txt_body_SymptomsDetail2"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -228,7 +228,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms3"
+                            android:id="@+id/txt_title_Symptoms3"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -237,7 +237,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail3"
+                            android:id="@+id/txt_body_SymptomsDetail3"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -299,7 +299,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms3_1"
+                            android:id="@+id/txt_title_Symptoms3_1"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -308,7 +308,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail3_1"
+                            android:id="@+id/txt_body_SymptomsDetail3_1"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -396,7 +396,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms4"
+                            android:id="@+id/txt_title_Symptoms4"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -405,7 +405,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail4"
+                            android:id="@+id/txt_body_SymptomsDetail4"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -466,7 +466,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms5"
+                            android:id="@+id/txt_title_Symptoms5"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -475,7 +475,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail5"
+                            android:id="@+id/txt_body_SymptomsDetail5"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -535,7 +535,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms6"
+                            android:id="@+id/txt_title_Symptoms6"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -544,7 +544,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail6"
+                            android:id="@+id/txt_body_SymptomsDetail6"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -604,7 +604,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms7"
+                            android:id="@+id/txt_title_Symptoms7"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -614,7 +614,7 @@
                             android:textSize="15sp" />
 
                         <TextView
-                            android:id="@+id/txtSymptomsDetail7"
+                            android:id="@+id/txt_body_SymptomsDetail7"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
