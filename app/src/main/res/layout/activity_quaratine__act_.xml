@@ -67,6 +67,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
+                            android:id="@+id/text_view_quarantine_activities_title_1"
                             android:fontFamily="@font/gilroy_bold"
                             android:text="Do Exercise at Home"
                             android:textColor="@color/colorBlack"
@@ -77,6 +78,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
+                            android:id="@+id/text_view_quarantine_activities_body_1"
                             android:text="Exercise empties the mind and fills you with positivity and power. Perfect for getting in the right mindset for the day ahead. Try to do at least one gym class every day."
                             android:textColor="@color/colorBlack"
                              android:textSize="12sp" />
@@ -134,6 +136,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_bold"
+                            android:id="@+id/text_view_quarantine_activities_title_2"
                             android:text="Try to Learn new Recipes"
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
@@ -142,6 +145,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
+                            android:id="@+id/text_view_quarantine_activities_body_2"
                             android:fontFamily="@font/gilroy_light"
                             android:text="It is such a fulfilling activity that we can do with our families and enjoy spending some time together, while cooking delicious cakes and etc."
                             android:textColor="@color/colorBlack"
@@ -200,6 +204,7 @@
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_bold"
                             android:text="Grab a Book and relax with it"
+                            android:id="@+id/text_view_quarantine_activities_title_3"
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
 
@@ -208,6 +213,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
+                            android:id="@+id/text_view_quarantine_activities_body_3"
                             android:text="Find a comfy place around your house. Grab a book and get immersed in it; you don’t have any time limits or schedules to follow."
                             android:textColor="@color/colorBlack"
                              android:textSize="12sp" />
@@ -265,6 +271,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_bold"
+                            android:id="@+id/text_view_quarantine_activities_title_4"
                             android:text="Connect with friends"
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
@@ -273,6 +280,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
+                            android:id="@+id/text_view_quarantine_activities_body_4"
                             android:fontFamily="@font/gilroy_light"
                             android:text="Whether you prefer to use WhatsApp, Skype, Netflix Party, or any other platform that you like, take a moment every day to connect with your friends."
                             android:textColor="@color/colorBlack"
@@ -332,6 +340,7 @@
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_bold"
                             android:text="Watch Classic Sports Replays"
+                            android:id="@+id/text_view_quarantine_activities_title_5"
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
 
@@ -339,6 +348,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
+                            android:id="@+id/text_view_quarantine_activities_body_5"
                             android:fontFamily="@font/gilroy_light"
                             android:text="There are no live sports to watch on TV right now. But there is something amazing going on around the world: many of the classic sports matches from history are being replayed on TV! "
                             android:textColor="@color/colorBlack"
@@ -397,6 +407,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_bold"
+                            android:id="@+id/text_view_quarantine_activities_title_6"
                             android:text="Watch Some Shows and Series  "
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
@@ -406,6 +417,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
+                            android:id="@+id/text_view_quarantine_activities_body_6"
                             android:text="We always want more and more time to watch new shows, series and movies. The newest season of Netflix’s world famous and addictive La Casa de Papel (Money Heist) series came out just a few weeks ago."
                             android:textColor="@color/colorBlack"
                              android:textSize="12sp" />
@@ -464,6 +476,7 @@
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_bold"
                             android:text="Learn a new language"
+                            android:id="@+id/text_view_quarantine_activities_title_7"
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
 
@@ -472,6 +485,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
                             android:fontFamily="@font/gilroy_light"
+                            android:id="@+id/text_view_quarantine_activities_body_7"
                             android:text=" It is as easy as downloading an app like Duolingo, choosing the language you would like to learn and do a little bit of it every day."
                             android:textColor="@color/colorBlack"
                              android:textSize="12sp" />

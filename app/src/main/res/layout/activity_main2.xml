@@ -22,15 +22,33 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:fontFamily="@font/gilroy_bold"
-        android:text="COVID-19"
-        android:textAlignment="center"
-        android:textColor="@color/colorWhite"
-        android:textSize="20sp" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="@font/gilroy_bold"
+                android:text="COVID-19"
+                android:textAlignment="center"
+                android:textColor="@color/colorWhite"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/language"
+                android:layout_marginVertical="@dimen/_5sdp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:id="@+id/main_image_view_select_language"
+                android:layout_marginRight="@dimen/_15sdp"/>
+
+        </RelativeLayout>
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -61,6 +79,7 @@
                     android:layout_margin="5dp"
                     android:fontFamily="@font/gilroy_light"
                     android:text="INFECTED"
+                    android:id="@+id/text_view_main_covid_infected"
                     android:textAlignment="center"
                     android:textColor="@color/colorBlack"
                     android:textSize="20sp" />
@@ -108,6 +127,7 @@
                         android:fontFamily="@font/gilroy_light"
                         android:text="RECOVERED"
                         android:textAlignment="center"
+                        android:id="@+id/text_view_main_covid_recovered"
                         android:textColor="@color/colorBlack"
                         android:textSize="20sp" />
 
@@ -148,6 +168,7 @@
                         android:layout_margin="5dp"
                         android:fontFamily="@font/gilroy_light"
                         android:text="DECEASED"
+                        android:id="@+id/text_view_main_covid_deceased"
                         android:textAlignment="center"
                         android:textColor="@color/colorBlack"
                         android:textSize="20sp" />
@@ -184,6 +205,7 @@
                 android:layout_marginLeft="15dp"
                 android:fontFamily="@font/gilroy_bold"
                 android:text="Symptoms"
+                android:id="@+id/main_home_symptoms"
                 android:layout_weight="1"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="20sp" />
@@ -253,7 +275,7 @@
                             android:layout_gravity="center_horizontal">
 
                             <TextView
-                                android:id="@+id/txtSymptoms1"
+                                android:id="@+id/txt_view_symptoms1_cough"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="10dp"
@@ -310,7 +332,7 @@
                             android:orientation="vertical">
 
                             <TextView
-                                android:id="@+id/txtSymptoms2"
+                                android:id="@+id/txt_view_symptoms2_fever"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="10dp"
@@ -364,7 +386,7 @@
                             android:layout_gravity="center_horizontal">
 
                             <TextView
-                                android:id="@+id/txtSymptoms3"
+                                android:id="@+id/txt_view_symptoms3_tiredness"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="10dp"
@@ -418,7 +440,7 @@
                             android:layout_gravity="center_horizontal">
 
                             <TextView
-                                android:id="@+id/txtSymptoms7"
+                                android:id="@+id/txt_view_symptoms4_sore_throat"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="10dp"
@@ -469,6 +491,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:fontFamily="@font/gilroy_bold"
+                        android:id="@+id/text_view_test_prompt"
                         android:text="Test your self form COVID -19"
                         android:textColor="@color/colorWhite"
                         android:textSize="20sp" />
@@ -548,6 +571,7 @@
                 android:layout_marginLeft="15dp"
                 android:fontFamily="@font/gilroy_bold"
                 android:text="Safety Majors "
+                android:id="@+id/text_view_main_safety_majors"
                 android:layout_weight="1"
                 android:textColor="@color/colorPrimaryDark"
                 android:textSize="20sp" />
@@ -616,7 +640,7 @@
                     android:layout_gravity="center_horizontal">
 
                     <TextView
-                        android:id="@+id/txtSymptoms1-2"
+                        android:id="@+id/txt_view_safety_1_hand_wash"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
@@ -671,7 +695,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/txtSymptoms2-2"
+                        android:id="@+id/txt_view_safety_2_social_distance"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
@@ -725,7 +749,7 @@
                     android:layout_gravity="center_horizontal">
 
                     <TextView
-                        android:id="@+id/txtSymptoms3-2"
+                        android:id="@+id/txt_view_safety_3_mask"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
@@ -779,7 +803,7 @@
                     android:layout_gravity="center_horizontal">
 
                     <TextView
-                        android:id="@+id/txtSymptoms5-2"
+                        android:id="@+id/txt_view_safety_4_stay_home"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
@@ -834,7 +858,7 @@
                     android:layout_gravity="center_horizontal">
 
                     <TextView
-                        android:id="@+id/txtSymptoms7-2"
+                        android:id="@+id/txt_view_safety_5_clean_object"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"

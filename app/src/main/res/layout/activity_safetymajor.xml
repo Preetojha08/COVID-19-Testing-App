@@ -77,7 +77,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms1"
+                            android:id="@+id/txt_view_safty_major_title_1"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -86,7 +86,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail"
+                            android:id="@+id/txt_view_safty_major_body_1"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -147,7 +147,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms2"
+                            android:id="@+id/txt_view_safty_major_title_2"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -157,7 +157,7 @@
                             android:textSize="15sp" />
 
                         <TextView
-                            android:id="@+id/txtSymptomsDetail2"
+                            android:id="@+id/txt_view_safty_major_body_2"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -218,7 +218,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms3"
+                            android:id="@+id/txt_view_safty_major_title_3"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -227,7 +227,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail3"
+                            android:id="@+id/txt_view_safty_major_body_3"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -289,7 +289,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms4"
+                            android:id="@+id/txt_view_safty_major_title_4"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -298,7 +298,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail4"
+                            android:id="@+id/txt_view_safty_major_body_4"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -360,7 +360,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms5"
+                            android:id="@+id/txt_view_safty_major_title_5"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -369,7 +369,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail5"
+                            android:id="@+id/txt_view_safty_major_body_5"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -431,7 +431,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms6"
+                            android:id="@+id/txt_view_safty_major_title_6"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -440,7 +440,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail6"
+                            android:id="@+id/txt_view_safty_major_body_6"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -501,7 +501,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms7"
+                            android:id="@+id/txt_view_safty_major_title_7"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -510,7 +510,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail7"
+                            android:id="@+id/txt_view_safty_major_body_7"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -571,7 +571,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms8"
+                            android:id="@+id/txt_view_safty_major_title_8"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -580,7 +580,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail8"
+                            android:id="@+id/txt_view_safty_major_body_8"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -642,7 +642,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms9"
+                            android:id="@+id/txt_view_safty_major_title_9"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -651,7 +651,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail9"
+                            android:id="@+id/txt_view_safty_major_body_9"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -712,7 +712,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms10"
+                            android:id="@+id/txt_view_safty_major_title_10"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -721,7 +721,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail10"
+                            android:id="@+id/txt_view_safty_major_body_10"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -783,7 +783,7 @@
                         android:orientation="vertical">
 
                         <TextView
-                            android:id="@+id/txtSymptoms11"
+                            android:id="@+id/txt_view_safty_major_title_11"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"
@@ -792,7 +792,7 @@
                             android:textColor="@color/colorBlack"
                             android:textSize="15sp" />
                         <TextView
-                            android:id="@+id/txtSymptomsDetail11"
+                            android:id="@+id/txt_view_safty_major_body_11"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="10dp"

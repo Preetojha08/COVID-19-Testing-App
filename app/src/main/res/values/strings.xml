@@ -189,63 +189,212 @@
     <string name="eng_home_covid_help_center_btn">COVID Help Centers</string>
     <string name="eng_home_view_text_view_all">view all</string>
 
-    <string name="eng_symptoms_dry_cough">Dry Cough</string>
-    <string name="eng_symptoms_fever">High Fever</string>
-    <string name="eng_symptoms_tiredness">Tiredness</string>
-    <string name="eng_symptoms_aches_and_pain">Aches and Pains</string>
-    <string name="eng_symptoms_nasal">Nasal Congestion</string>
-    <string name="eng_symptoms_throat">Sore Throat</string>
-    <string name="eng_symptoms_nose">Runny Nose</string>
+    <string name="hindi_home_infected_tv">संक्रमित</string>
+    <string name="hindi_home_recovered_tv">ठीक हो गया</string>
+    <string name="hindi_home_deceased_tv">मृतक</string>
+    <string name="hindi_home_symptoms_tv">लक्षण</string>
+    <string name="hindi_home_safety_tv">सुरक्षा मेजर</string>
+    <string name="hindi_home_test_prompt_tv">COVID 19 से खुद का परीक्षण करें</string>
+    <string name="hindi_home_test_button">परीक्षण शुरू करो</string>
+    <string name="hindi_home_quarantine_act_btn">संगरोध गतिविधियां</string>
+    <string name="hindi_home_covid_help_center_btn">COVID सहायता केंद्र</string>
+    <string name="hindi_home_view_text_view_all">सभी देखें</string>
+
+    <string name="guj_home_infected_tv">સંક્રમિત</string>
+    <string name="guj_home_recovered_tv">સારા થઇ ગયા</string>
+    <string name="guj_home_deceased_tv">મરેલો</string>
+    <string name="guj_home_symptoms_tv">લક્ષણો</string>
+    <string name="guj_home_safety_tv">સલામતી મેજર્સ</string>
+    <string name="guj_home_test_prompt_tv">COVID-19 થી તમારા સ્વયંની કસોટી કરો</string>
+    <string name="guj_home_test_button">ટેસ્ટ શરૂ કરો</string>
+    <string name="guj_home_quarantine_act_btn">સંસર્ગનિષેધ પ્રવૃત્તિઓ</string>
+    <string name="guj_home_covid_help_center_btn">COVID સહાય કેન્દ્રો</string>
+    <string name="guj_home_view_text_view_all">બધુજ જુઓ</string>
+
+    <string name="eng_symptoms_dry_cough_1">Dry Cough</string>
+    <string name="eng_symptoms_fever_2">High Fever</string>
+    <string name="eng_symptoms_tiredness_3">Tiredness</string>
+    <string name="eng_symptoms_lost_smell_4">Loss of Taste or Smell</string>
+    <string name="eng_symptoms_aches_and_pain_5">Aches and Pains</string>
+    <string name="eng_symptoms_nasal_6">Nasal Congestion</string>
+    <string name="eng_symptoms_throat_7">Sore Throat</string>
+    <string name="eng_symptoms_nose_8">Runny Nose</string>
+
+    <string name="hindi_symptoms_dry_cough_1">सूखी खाँसी</string>
+    <string name="hindi_symptoms_fever_2">तेज़ बुखार</string>
+    <string name="hindi_symptoms_tiredness_3">थकान</string>
+    <string name="hindi_symptoms_lost_smell_4">स्वाद या गंध की हानि</string>
+    <string name="hindi_symptoms_aches_and_pain_5">दर्द एवं पीड़ा</string>
+    <string name="hindi_symptoms_nasal_6">नाक बंद</string>
+    <string name="hindi_symptoms_throat_7">गले में खराश</string>
+    <string name="hindi_symptoms_nose_8">बहती नाक</string>
+
+    <string name="guj_symptoms_dry_cough_1">સુકા ઉધરસ</string>
+    <string name="guj_symptoms_fever_2">વધારે તાવ</string>
+    <string name="guj_symptoms_tiredness_3">થાક</string>
+    <string name="guj_symptoms_lost_smell_4">સ્વાદ અથવા દુર્ગંધ ગુમાવવી</string>
+    <string name="guj_symptoms_aches_and_pain_5">દુખાવો અને પીડા</string>
+    <string name="guj_symptoms_nasal_6">અનુનાસિક ભીડ</string>
+    <string name="guj_symptoms_throat_7">સુકુ ગળું</string>
+    <string name="guj_symptoms_nose_8">વહેતું નાક</string>
 
     <string name="eng_symptoms_title_common">Common Symptoms</string>
     <string name="eng_symptoms_title_special">Some People May Experience Special Symptoms</string>
 
-    <string name="eng_symptoms_dry_cough_para">A sudden, forceful hacking sound to release air and clear an irritation in the throat or airway.</string>
-    <string name="eng_symptoms_fever_para">High-grade fevers range from about 103 F-104 F. Dangerous temperatures are high-grade fevers that range from over 104 F-107 F or higher.</string>
-    <string name="eng_symptoms_tiredness_para">Feeling overtired, with low energy and a strong desire to sleep that interferes with normal daily activities.</string>
-    <string name="eng_symptoms_nasal_para">Nasal congestion can have causes that aren\'t due to underlying disease. Examples include anatomical variation, having an object stuck in the nose or dried mucus.</string>
-    <string name="eng_symptoms_throat_para">Sore throat can have causes that aren\'t due to underlying disease. Examples include overuse of voice, a burn from hot food, very dry mouth or sleeping with the mouth open.</string>
-    <string name="eng_symptoms_aches_and_pain_para">Body aches are a common symptom of many conditions. The flu is one of the most well-known conditions that can cause body aches.</string>
-    <string name="eng_symptoms_nose_para">A runny nose is excess nasal drainage. It may be a thin clear fluid, thick mucus or something in between. The drainage may run out of your nose, down the back of your throat or both. The terms rhinorrhea and rhinitis are often used to refer to a runny nose.</string>
+    <string name="hindi_symptoms_title_common">सामान्य लक्षण</string>
+    <string name="hindi_symptoms_title_special">कुछ लोगों को विशेष लक्षणों का अनुभव हो सकता है</string>
 
-    <string name="eng_safety_majors_wash_hands">Wash Your Hands Frequently</string>
-    <string name="eng_safety_majors_wear_mask">Wear Mask Before Going Outside</string>
-    <string name="eng_safety_majors_social_distance">Maintain Social Distancing</string>
-    <string name="eng_safety_majors_touching_face">Avoid Touching Face</string>
-    <string name="eng_safety_majors_respiratory">Practice Respiratory Hygiene</string>
-    <string name="eng_safety_majors_medical_care">Seek Early Medical Care</string>
-    <string name="eng_safety_majors_clean_everthing">Clean Everything</string>
-    <string name="eng_safety_majors_vitamins">Vitamins and Supplements For Immunity</string>
-    <string name="eng_safety_majors_consume_liquids">Consume Liquids</string>
-    <string name="eng_safety_majors_vaild_info">Check Only Vaild Information</string>
-    <string name="eng_safety_majors_family_time">Spend Time With Family </string>
+    <string name="guj_symptoms_title_common">સામાન્ય લક્ષણો</string>
+    <string name="guj_symptoms_title_special">કેટલાક લોકો વિશેષ લક્ષણો અનુભવી શકે છે</string>
 
-    <string name="eng_safety_majors_wash_hands_para">Regularly and thoroughly clean your hands with an alcohol - based hand sanitizer or wash them with soap and water after coming from outside and in every three hours interval.                             </string>
-    <string name="eng_safety_majors_wear_mask_para">Wear a mask if you are coughing or sneezing. Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water. If you wear a mask, then you must know how to use it and dispose of it properly.                             </string>
-    <string name="eng_safety_majors_social_distance_para">Its time to practice social distancing, which simply implies to staying at home. Maintain at least 1 metre (3 feet) distance between yourself and who is coughing or sneezing.Avoid coming in contact with people who are sick, even if they are not infected with the virus.                             </string>
-    <string name="eng_safety_majors_touching_face_para">Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. So don not touch your Face.                                    </string>
-    <string name="eng_safety_majors_respiratory_para">Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.                                                    </string>
-    <string name="eng_safety_majors_medical_care_para">If you have a fever, cough and difficulty breathing, seek medical attention, call in advance and stay at home.                                  </string>
-    <string name="eng_safety_majors_clean_everthing_para">Disinfect everything that you touch every frequently. From doorknobs, lights, handles, surfaces, TV remotes, drawers, washbasin to toilets, make sure everything is clean.                                 </string>
-    <string name="eng_safety_majors_vitamins_para">Include essential vitamin supplements like vitamin B12 with Methylcobalamin, vitamin D3, vitamin C and turmeric in your diet. Make sure you have one dose of each every single day to restore and build your immunity.              </string>
-    <string name="eng_safety_majors_consume_liquids_para">Coconut water, lemon water, water with vitamin C supplements drink as much as possible to flush the toxins and strengthen your immune system.                             </string>
-    <string name="eng_safety_majors_vaild_info_para">Lot information is available out there on TV, internet and social media. But not everything is true. Please be careful about what is read and consumed. Make sure you check the facts are right.                              </string>
-    <string name="eng_safety_majors_family_time_para">Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.                              </string>
+    <string name="eng_symptoms_dry_cough_para_1">A sudden, forceful hacking sound to release air and clear an irritation in the throat or airway.</string>
+    <string name="eng_symptoms_fever_para_2">High-grade fevers range from about 103 F-104 F. Dangerous temperatures are high-grade fevers that range from over 104 F-107 F or higher.</string>
+    <string name="eng_symptoms_tiredness_para_3">Feeling overtired, with low energy and a strong desire to sleep that interferes with normal daily activities.</string>
+    <string name="eng_symptoms_lost_smell_para_4">It\'s not uncommon for upper respiratory infections such as the common cold or flu to affect our senses of smell and taste. In fact, it\'s estimated that a temporary loss of smell happens in over 60 percent of colds and sinus infections.</string>
+    <string name="eng_symptoms_nasal_para_5">Nasal congestion can have causes that aren\'t due to underlying disease. Examples include anatomical variation, having an object stuck in the nose or dried mucus.</string>
+    <string name="eng_symptoms_throat_para_6">Sore throat can have causes that aren\'t due to underlying disease. Examples include overuse of voice, a burn from hot food, very dry mouth or sleeping with the mouth open.</string>
+    <string name="eng_symptoms_aches_and_pain_para_7">Body aches are a common symptom of many conditions. The flu is one of the most well-known conditions that can cause body aches.</string>
+    <string name="eng_symptoms_nose_para_8">A runny nose is excess nasal drainage. It may be a thin clear fluid, thick mucus or something in between. The drainage may run out of your nose, down the back of your throat or both. The terms rhinorrhea and rhinitis are often used to refer to a runny nose.</string>
 
-    <string name="eng_quarantine_acts_exercise">Do Exercise At Home</string>
-    <string name="eng_quarantine_acts_new_recipes">Try To Learn New Recipes</string>
-    <string name="eng_quarantine_acts_read_book">Grab A Book and Relax</string>
-    <string name="eng_quarantine_acts_friends">Connect With Friends</string>
-    <string name="eng_quarantine_acts_watch_sports">Watch Classic Sports Replays</string>
-    <string name="eng_quarantine_acts_watch_movies">Watch New Shows and Movies</string>
-    <string name="eng_quarantine_acts_learn_lang">Learn New Language</string>
+    <string name="hindi_symptoms_dry_cough_para_1">हवा छोड़ने और गले या वायुमार्ग में जलन को दूर करने के लिए अचानक, जोरदार हैकिंग की आवाज।</string>
+    <string name="hindi_symptoms_fever_para_2">उच्च श्रेणी के बुखार लगभग 103 F-104 F के बीच होते हैं। खतरनाक तापमान उच्च श्रेणी के बुखार होते हैं जिनकी सीमा 104 F-107 F या उससे अधिक होती है।</string>
+    <string name="hindi_symptoms_tiredness_para_3">कम ऊर्जा और सोने की तीव्र इच्छा के साथ अधिक थका हुआ महसूस करना जो सामान्य दैनिक गतिविधियों में हस्तक्षेप करता है।</string>
+    <string name="hindi_symptoms_lost_smell_para_4">ऊपरी श्वसन संक्रमण जैसे कि सामान्य सर्दी या फ्लू के लिए गंध और स्वाद की हमारी इंद्रियों को प्रभावित करना असामान्य नहीं है। वास्तव में, यह अनुमान लगाया गया है कि 60 प्रतिशत से अधिक सर्दी और साइनस संक्रमण में गंध का अस्थायी नुकसान होता है।</string>
+    <string name="hindi_symptoms_nasal_para_5">नाक बंद होने के ऐसे कारण हो सकते हैं जो अंतर्निहित बीमारी की वजह से नहीं हों. उदाहरणों में शामिल हैं शारीरिक भिन्नता, नाक में फंसी वस्तु या सूखे बलगम।</string>
+    <string name="hindi_symptoms_throat_para_6">गले में खराश के ऐसे कारण हो सकते हैं जो अंतर्निहित बीमारी की वजह से नहीं हों। उदाहरणों में शामिल हैं आवाज का अत्यधिक उपयोग, गर्म भोजन से जलन, बहुत शुष्क मुँह या मुँह खोलकर सोना।</string>
+    <string name="hindi_symptoms_aches_and_pain_para_7">शरीर में दर्द कई स्थितियों का एक सामान्य लक्षण है। फ्लू सबसे प्रसिद्ध स्थितियों में से एक है जो शरीर में दर्द पैदा कर सकता है।</string>
+    <string name="hindi_symptoms_nose_para_8">एक बहती नाक अतिरिक्त नाक जल निकासी है। यह एक पतला स्पष्ट तरल पदार्थ, गाढ़ा बलगम या बीच में कुछ हो सकता है। जल निकासी आपकी नाक से, आपके गले के पीछे या दोनों से निकल सकती है। राइनोरिया और राइनाइटिस शब्द का इस्तेमाल अक्सर बहती नाक के लिए किया जाता है।</string>
 
-    <string name="eng_quarantine_acts_exercise_para">Exercise empties the mind and fills you with positivity and power. Perfect for getting in the right mindset for the day ahead. Try to do at least one gym class every day.                                 </string>
-    <string name="eng_quarantine_acts_new_recipes_para">It is such a fulfilling activity that we can do with our families and enjoy spending some time together, while cooking delicious cakes and etc.                                 </string>
-    <string name="eng_quarantine_acts_read_book_para">Find a comfy place around your house. Grab a book and get immersed in it; you don’t have any time limits or schedules to follow.                                 </string>
-    <string name="eng_quarantine_acts_friends_para">Whether you prefer to use WhatsApp, Skype, Netflix Party, or any other platform that you like, take a moment every day to connect with your friends.                                 </string>
-    <string name="eng_quarantine_acts_watch_sports_para">There are no live sports to watch on TV right now. But there is something amazing going on around the world: many of the classic sports matches from history are being replayed on TV!                                 </string>
-    <string name="eng_quarantine_acts_watch_movies_para">We always want more and more time to watch new shows, series and movies. The newest season of Netflix’s world famous and addictive La Casa de Papel (Money Heist) series came out just a few weeks ago.                                 </string>
-    <string name="eng_quarantine_acts_learn_lang_para">It is as easy as downloading an app like Duolingo, choosing the language you would like to learn and do a little bit of it every day.                                 </string>
+    <string name="guj_symptoms_dry_cough_para_1">હવાને મુક્ત કરવા અને ગળામાં અથવા વાયુમાર્ગમાં બળતરા દૂર કરવા માટે અચાનક, બળવાન હેકિંગનો અવાજ.</string>
+    <string name="guj_symptoms_fever_para_2">હાઇ-ગ્રેડ ફિવર્સ લગભગ 103 એફ -104 એફ સુધીની હોય છે. ખતરનાક તાપમાન ઉચ્ચ-ગ્રેડ ફિવર્સ છે જે 104 એફ -107 એફ અથવા તેથી વધુની રેન્જ ધરાવે છે.</string>
+    <string name="guj_symptoms_tiredness_para_3">અતિશય નબળાઇ અનુભવી, ઓછી energyર્જા અને સૂવાની તીવ્ર ઇચ્છા સાથે જે સામાન્ય દૈનિક પ્રવૃત્તિઓમાં દખલ કરે છે.</string>
+    <string name="guj_symptoms_lost_smell_para_4">સામાન્ય શરદી અથવા ફ્લૂ જેવા ઉપલા શ્વસન ચેપ માટે ગંધ અને સ્વાદની અમારી ઇન્દ્રિયને અસર કરવા તે અસામાન્ય નથી. હકીકતમાં, એવો અંદાજ છે કે ગંધનો હંગામી નુકસાન 60 ટકા શરદી અને સાઇનસના ચેપમાં થાય છે.</string>
+    <string name="guj_symptoms_nasal_para_5">અનુનાસિક ભીડને લીધે અંતર્ગત રોગને લીધે એવા કારણો હોઈ શકે છે કે જે નથી. ઉદાહરણોમાં એનાટોમિકલ વિવિધતા શામેલ છે, જેમાં કોઈ વસ્તુ નાક અથવા સૂકા લાળમાં અટવાઇ છે.</string>
+    <string name="guj_symptoms_throat_para_6">ગળામાં દુખાવો થવાના કારણો હોઈ શકે છે જે અંતર્ગત રોગને લીધે નથી. ઉદાહરણોમાં અવાજનો અતિશય વપરાશ, ગરમ ખોરાકમાંથી બર્ન, ખૂબ સૂકા મોં અથવા મોં ખુલ્લા રાખીને સૂવું શામેલ છે.</string>
+    <string name="guj_symptoms_aches_and_pain_para_7">શરીરમાં દુખાવો એ ઘણી પરિસ્થિતિઓનું સામાન્ય લક્ષણ છે. ફ્લૂ એ એક સૌથી જાણીતી સ્થિતિ છે જે શરીરમાં દુ acખાવો પેદા કરી શકે છે.</string>
+    <string name="guj_symptoms_nose_para_8">વહેતું નાક એ વધારે અનુનાસિક ડ્રેનેજ છે. તે પાતળા સ્પષ્ટ પ્રવાહી, જાડા લાળ અથવા વચ્ચેની કોઈ વસ્તુ હોઈ શકે છે. ડ્રેનેજ તમારા નાકની બહાર નીકળી શકે છે, તમારા ગળાના પાછલા ભાગ અથવા બંને તરફ. નાસિકા પ્રદાહ અને નાસિકા પ્રદાહ શબ્દો વારંવાર વહેતું નાકનો સંદર્ભ લેવા માટે વપરાય છે.</string>
+
+    <string name="eng_safety_majors_wash_hands_1">Wash Your Hands Frequently</string>
+    <string name="eng_safety_majors_wear_mask_2">Wear Mask Before Going Outside</string>
+    <string name="eng_safety_majors_social_distance_3">Maintain Social Distancing</string>
+    <string name="eng_safety_majors_touching_face_4">Avoid Touching Face</string>
+    <string name="eng_safety_majors_respiratory_5">Practice Respiratory Hygiene</string>
+    <string name="eng_safety_majors_medical_care_6">Seek Early Medical Care</string>
+    <string name="eng_safety_majors_clean_everthing_7">Clean Everything</string>
+    <string name="eng_safety_majors_vitamins_8">Vitamins and Supplements For Immunity</string>
+    <string name="eng_safety_majors_consume_liquids_9">Consume Liquids</string>
+    <string name="eng_safety_majors_vaild_info_10">Check Only Vaild Information</string>
+    <string name="eng_safety_majors_family_time_11">Spend Time With Family </string>
+
+    <string name="hindi_safety_majors_wash_hands_1">बार-बार हाथ धोएं</string>
+    <string name="hindi_safety_majors_wear_mask_2">बाहर जाने से पहले मास्क पहनें</string>
+    <string name="hindi_safety_majors_social_distance_3">सामाजिक दूरी बनाए रखें</string>
+    <string name="hindi_safety_majors_touching_face_4">चेहरे को छूने से बचें</string>
+    <string name="hindi_safety_majors_respiratory_5">श्वसन स्वच्छता का अभ्यास करें</string>
+    <string name="hindi_safety_majors_medical_care_6">प्रारंभिक चिकित्सा देखभाल की तलाश करें</string>
+    <string name="hindi_safety_majors_clean_everthing_7">सब कुछ साफ करें</string>
+    <string name="hindi_safety_majors_vitamins_8">प्रतिरक्षा के लिए विटामिन और पूरक</string>
+    <string name="hindi_safety_majors_consume_liquids_9">तरल पदार्थों का सेवन करें</string>
+    <string name="hindi_safety_majors_vaild_info_10">केवल वैध जानकारी की जाँच करें</string>
+    <string name="hindi_safety_majors_family_time_11">परिवार के साथ समय बिताना </string>
+
+    <string name="guj_safety_majors_wash_hands_1">વારંવાર તમારા હાથ ધોવા</string>
+    <string name="guj_safety_majors_wear_mask_2">બહાર જવા પહેલાં માસ્ક પહેરો</string>
+    <string name="guj_safety_majors_social_distance_3">સામાજિક અંતર જાળવવા</string>
+    <string name="guj_safety_majors_touching_face_4">ચહેરો સ્પર્શ કરવાનું ટાળો</string>
+    <string name="guj_safety_majors_respiratory_5">પ્રેક્ટિસ શ્વસન સ્વચ્છતા</string>
+    <string name="guj_safety_majors_medical_care_6">વહેલી તબીબી સંભાળ લેવી</string>
+    <string name="guj_safety_majors_clean_everthing_7">બધું સાફ કરો</string>
+    <string name="guj_safety_majors_vitamins_8">રોગપ્રતિકારક શક્તિ માટે વિટામિન અને પૂરક</string>
+    <string name="guj_safety_majors_consume_liquids_9">પ્રવાહીનો વપરાશ કરો</string>
+    <string name="guj_safety_majors_vaild_info_10">ફક્ત વેલ્ડ માહિતી તપાસો</string>
+    <string name="guj_safety_majors_family_time_11">પરિવાર સાથે સમય વિતાવશો </string>
+
+    <string name="eng_safety_majors_wash_hands_para_1">Regularly and thoroughly clean your hands with an alcohol - based hand sanitizer or wash them with soap and water after coming from outside and in every three hours interval.</string>
+    <string name="eng_safety_majors_wear_mask_para_2">Wear a mask if you are coughing or sneezing. Masks are effective only when used in combination with frequent hand-cleaning with alcohol-based hand rub or soap and water. If you wear a mask, then you must know how to use it and dispose of it properly.</string>
+    <string name="eng_safety_majors_social_distance_para_3">Its time to practice social distancing, which simply implies to staying at home. Maintain at least 1 metre (3 feet) distance between yourself and who is coughing or sneezing.Avoid coming in contact with people who are sick, even if they are not infected with the virus.</string>
+    <string name="eng_safety_majors_touching_face_para_4">Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. So don not touch your Face.</string>
+    <string name="eng_safety_majors_respiratory_para_5">Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze.</string>
+    <string name="eng_safety_majors_medical_care_para_6">If you have a fever, cough and difficulty breathing, seek medical attention, call in advance and stay at home.</string>
+    <string name="eng_safety_majors_clean_everthing_para_7">Disinfect everything that you touch every frequently. From doorknobs, lights, handles, surfaces, TV remotes, drawers, washbasin to toilets, make sure everything is clean.</string>
+    <string name="eng_safety_majors_vitamins_para_8">Include essential vitamin supplements like vitamin B12 with Methylcobalamin, vitamin D3, vitamin C and turmeric in your diet. Make sure you have one dose of each every single day to restore and build your immunity.</string>
+    <string name="eng_safety_majors_consume_liquids_para_9">Coconut water, lemon water, water with vitamin C supplements drink as much as possible to flush the toxins and strengthen your immune system.</string>
+    <string name="eng_safety_majors_vaild_info_para_10">Lot information is available out there on TV, internet and social media. But not everything is true. Please be careful about what is read and consumed. Make sure you check the facts are right.</string>
+    <string name="eng_safety_majors_family_time_para_11">Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. </string>
+
+    <string name="hindi_safety_majors_wash_hands_para_1">अपने हाथों को अल्कोहल आधारित हैंड सैनिटाइज़र से नियमित रूप से और अच्छी तरह से साफ करें या बाहर से आने के बाद और हर तीन घंटे के अंतराल में उन्हें साबुन और पानी से धोएं।</string>
+    <string name="hindi_safety_majors_wear_mask_para_2">खांसी या छींक आने पर मास्क पहनें। मास्क तभी प्रभावी होते हैं जब अल्कोहल-आधारित हैंड रब या साबुन और पानी के साथ बार-बार हाथ की सफाई के संयोजन में उपयोग किया जाता है। अगर आप मास्क पहनते हैं, तो आपको इसका इस्तेमाल और उसका सही तरीके से डिस्पोजल करना पता होना चाहिए।</string>
+    <string name="hindi_safety_majors_social_distance_para_3">यह सोशल डिस्टेंसिंग का पालन करने का समय है, जिसका सीधा सा मतलब है घर पर रहना। अपने और खांसने या छींकने वाले के बीच कम से कम 1 मीटर (3 फीट) की दूरी बनाए रखें। बीमार लोगों के संपर्क में आने से बचें, भले ही वे वायरस से संक्रमित न हों।</string>
+    <string name="hindi_safety_majors_touching_face_para_4">हाथ कई सतहों को छूते हैं और वायरस उठा सकते हैं। एक बार दूषित होने के बाद, हाथ वायरस को आपकी आंखों, नाक या मुंह में स्थानांतरित कर सकते हैं। इसलिए अपने चेहरे को मत छुओ।</string>
+    <string name="hindi_safety_majors_respiratory_para_5">सुनिश्चित करें कि आप और आपके आस-पास के लोग अच्छी श्वसन स्वच्छता का पालन करें। इसका मतलब है कि खांसते या छींकते समय अपने मुंह और नाक को अपनी मुड़ी हुई कोहनी या टिश्यू से ढक लें।</string>
+    <string name="hindi_safety_majors_medical_care_para_6">यदि आपको बुखार, खांसी और सांस लेने में कठिनाई है, तो चिकित्सा सहायता लें, पहले से कॉल करें और घर पर ही रहें।</string>
+    <string name="hindi_safety_majors_clean_everthing_para_7">आप जिस भी चीज को बार-बार छूते हैं, उसे कीटाणुरहित करें। डोर नॉब्स, लाइट, हैंडल, सरफेस, टीवी रिमोट, दराज, वॉशबेसिन से लेकर शौचालय तक, सुनिश्चित करें कि सब कुछ साफ है।</string>
+    <string name="hindi_safety_majors_vitamins_para_8">अपने आहार में मिथाइलकोबालामिन, विटामिन डी3, विटामिन सी और हल्दी के साथ विटामिन बी12 जैसे आवश्यक विटामिन सप्लीमेंट शामिल करें। सुनिश्चित करें कि आपके पास अपनी प्रतिरक्षा को बहाल करने और बनाने के लिए हर एक दिन में एक खुराक है।</string>
+    <string name="hindi_safety_majors_consume_liquids_para_9">नारियल पानी, नींबू पानी, विटामिन सी सप्लीमेंट वाला पानी जितना हो सके टॉक्सिन्स को बाहर निकालने और अपने इम्यून सिस्टम को मजबूत करने के लिए पिएं।</string>
+    <string name="hindi_safety_majors_vaild_info_para_10">टीवी, इंटरनेट और सोशल मीडिया पर बहुत सारी जानकारी उपलब्ध है। लेकिन सब कुछ सच नहीं है। कृपया इस बात से सावधान रहें कि क्या पढ़ा और खाया जाता है। सुनिश्चित करें कि आपने जाँच की है कि तथ्य सही हैं।</string>
+    <string name="hindi_safety_majors_family_time_para_11">सुनिश्चित करें कि आप और आपके आस-पास के लोग अच्छी श्वसन स्वच्छता का पालन करें। इसका मतलब है कि खांसते या छींकते समय अपने मुंह और नाक को अपनी मुड़ी हुई कोहनी या टिश्यू से ढक लें। </string>
+
+    <string name="guj_safety_majors_wash_hands_para_1">આલ્કોહોલ આધારિત હેન્ડ સેનિટાઇઝરથી તમારા હાથને નિયમિતપણે અને સારી રીતે સાફ કરો અથવા બહારથી અને દર ત્રણ કલાકના અંતરાલમાં આવ્યા પછી તેમને સાબુ અને પાણીથી ધોઈ લો.</string>
+    <string name="guj_safety_majors_wear_mask_para_2">જો તમને ખાંસી અથવા છીંક આવે છે તો માસ્ક પહેરો. માસ્ક ફક્ત ત્યારે જ અસરકારક હોય છે જ્યારે આલ્કોહોલ આધારિત હેન્ડ રબ અથવા સાબુ અને પાણી સાથે વારંવાર હાથ સાફ કરવાના સંયોજનમાં વપરાય છે. જો તમે માસ્ક પહેરો છો, તો તમારે તેનો ઉપયોગ કેવી રીતે કરવો તે યોગ્ય રીતે જાણવું અને તેનો નિકાલ કરવો આવશ્યક છે.</string>
+    <string name="guj_safety_majors_social_distance_para_3">સામાજિક અંતરની પ્રેક્ટિસ કરવાનો તેનો સમય, જે ફક્ત ઘરે રોકાવાનો અર્થ છે. જાતે અને કોને ખાંસી અથવા છીંક આવે છે તેની વચ્ચે ઓછામાં ઓછું 1 મીટર (3 ફુટ) અંતર જાળવી રાખો. બીમાર લોકો સાથે સંપર્કમાં આવતાં રહેવું, ભલે તે વાયરસથી ચેપ લાગ્યો ન હોય.</string>
+    <string name="guj_safety_majors_touching_face_para_4">હાથ ઘણી સપાટીઓને સ્પર્શ કરે છે અને વાયરસ પસંદ કરી શકે છે. દૂષિત થઈ ગયા પછી, હાથ તમારી આંખો, નાક અથવા મોંમાં વાયરસ સ્થાનાંતરિત કરી શકે છે. તેથી તમારા ચહેરાને સ્પર્શશો નહીં.</string>
+    <string name="guj_safety_majors_respiratory_para_5">ખાતરી કરો કે તમે અને તમારી આસપાસના લોકો, શ્વસનક્રિયાની સારી સ્વચ્છતાને અનુસરો. જ્યારે તમે ખાંસી અથવા છીંક લેશો ત્યારે આનો અર્થ પેશી થાય છે.</string>
+    <string name="guj_safety_majors_medical_care_para_6">જો તમને તાવ, ઉધરસ અને શ્વાસ લેવામાં તકલીફ હોય, તો તબીબી સહાય મેળવો, અગાઉથી ફોન કરો અને ઘરે જ રહો.</string>
+    <string name="guj_safety_majors_clean_everthing_para_7">તમે વારંવાર સ્પર્શતી દરેક વસ્તુને જંતુમુક્ત કરો. ડૂર્કનોબ્સ, લાઇટ્સ, હેન્ડલ્સ, સપાટીઓ, ટીવી રિમોટ્સ, ડ્રોઅર્સ, વ washશબાસિનથી લઈને શૌચાલય સુધી, ખાતરી કરો કે બધું સાફ છે.</string>
+    <string name="guj_safety_majors_vitamins_para_8">તમારા આહારમાં વિટામિન બી 12 જેવા વિટામિન બી 12, વિટામિન ડી 3, વિટામિન સી અને હળદર જેવા આવશ્યક વિટામિન સપ્લિમેન્ટ્સ શામેલ કરો. ખાતરી કરો કે તમારી પ્રતિરક્ષા પુન restoreસ્થાપિત કરવા અને બનાવવા માટે તમારી પાસે પ્રત્યેક દિવસની એક માત્રા છે.</string>
+    <string name="guj_safety_majors_consume_liquids_para_9">નાળિયેર પાણી, લીંબુ પાણી, વિટામિન સી પૂરક સાથેનું પાણી ઝેરને ફ્લશ કરવા અને તમારી રોગપ્રતિકારક શક્તિને મજબૂત બનાવવા માટે શક્ય તેટલું પીવે છે.</string>
+    <string name="guj_safety_majors_vaild_info_para_10">ટીવી, ઇન્ટરનેટ અને સોશિયલ મીડિયા પર ઘણી માહિતી ઉપલબ્ધ છે. પરંતુ બધું સાચું નથી. કૃપા કરીને શું વાંચવામાં આવે છે અને તેનું શું સેવન કરવામાં આવે છે તેના વિશે સાવચેત રહો. ખાતરી કરો કે તમે તથ્યો બરાબર છે તે તપાસો.</string>
+    <string name="guj_safety_majors_family_time_para_11">ખાતરી કરો કે તમે અને તમારી આસપાસના લોકો, શ્વસનક્રિયાની સારી સ્વચ્છતાને અનુસરો. જ્યારે તમે ખાંસી અથવા છીંક લેશો ત્યારે આનો અર્થ અથવા પેશી છે. </string>
+
+    <string name="eng_quarantine_acts_exercise_1">Do Exercise At Home</string>
+    <string name="eng_quarantine_acts_new_recipes_2">Try To Learn New Recipes</string>
+    <string name="eng_quarantine_acts_read_book_3">Grab A Book and Relax</string>
+    <string name="eng_quarantine_acts_friends_4">Connect With Friends</string>
+    <string name="eng_quarantine_acts_watch_sports_5">Watch Classic Sports Replays</string>
+    <string name="eng_quarantine_acts_watch_movies_6">Watch New Shows and Movies</string>
+    <string name="eng_quarantine_acts_learn_lang_7">Learn New Language</string>
+
+    <string name="hindi_quarantine_acts_exercise_1">घर पर करें एक्सरसाइज</string>
+    <string name="hindi_quarantine_acts_new_recipes_2">नई रेसिपी सीखने की कोशिश करें</string>
+    <string name="hindi_quarantine_acts_read_book_3">एक किताब पकड़ो और आराम करो</string>
+    <string name="hindi_quarantine_acts_friends_4">दोस्तों के साथ जुड़ें</string>
+    <string name="hindi_quarantine_acts_watch_sports_5">क्लासिक स्पोर्ट्स रिप्ले देखें</string>
+    <string name="hindi_quarantine_acts_watch_movies_6">नए शो और फिल्में देखें</string>
+    <string name="hindi_quarantine_acts_learn_lang_7">नई भाषा सीखें</string>
+
+    <string name="guj_quarantine_acts_exercise_1">ઘરે એક્સરસાઇઝ કરો</string>
+    <string name="guj_quarantine_acts_new_recipes_2">નવી રેસિપિ શીખવાનો પ્રયત્ન કરો</string>
+    <string name="guj_quarantine_acts_read_book_3">ગ્રેબ અ બુક એન્ડ રિલેક્સ</string>
+    <string name="guj_quarantine_acts_friends_4">મિત્રો સાથે જોડાઓ</string>
+    <string name="guj_quarantine_acts_watch_sports_5">ક્લાસિક રમતો રિપ્લે જુઓ</string>
+    <string name="guj_quarantine_acts_watch_movies_6">નવા શો અને મૂવીઝ જુઓ</string>
+    <string name="guj_quarantine_acts_learn_lang_7">નવી ભાષા શીખો</string>
+
+    <string name="eng_quarantine_acts_exercise_para_1">Exercise empties the mind and fills you with positivity and power. Perfect for getting in the right mindset for the day ahead. Try to do at least one gym class every day.                                 </string>
+    <string name="eng_quarantine_acts_new_recipes_para_2">It is such a fulfilling activity that we can do with our families and enjoy spending some time together, while cooking delicious cakes and etc.                                 </string>
+    <string name="eng_quarantine_acts_read_book_para_3">Find a comfy place around your house. Grab a book and get immersed in it; you don’t have any time limits or schedules to follow.                                 </string>
+    <string name="eng_quarantine_acts_friends_para_4">Whether you prefer to use WhatsApp, Skype, Netflix Party, or any other platform that you like, take a moment every day to connect with your friends.                                 </string>
+    <string name="eng_quarantine_acts_watch_sports_para_5">There are no live sports to watch on TV right now. But there is something amazing going on around the world: many of the classic sports matches from history are being replayed on TV!                                 </string>
+    <string name="eng_quarantine_acts_watch_movies_para_6">We always want more and more time to watch new shows, series and movies. The newest season of Netflix’s world famous and addictive La Casa de Papel (Money Heist) series came out just a few weeks ago.                                 </string>
+    <string name="eng_quarantine_acts_learn_lang_para_7">It is as easy as downloading an app like Duolingo, choosing the language you would like to learn and do a little bit of it every day.                                 </string>
+
+    <string name="hindi_quarantine_acts_exercise_para_1">व्यायाम दिमाग को खाली कर देता है और आपको सकारात्मकता और शक्ति से भर देता है। आने वाले दिन के लिए सही मानसिकता में आने के लिए बिल्कुल सही। हर दिन कम से कम एक जिम क्लास करने की कोशिश करें।</string>
+    <string name="hindi_quarantine_acts_new_recipes_para_2">यह एक ऐसी संतोषजनक गतिविधि है जिसे हम अपने परिवारों के साथ कर सकते हैं और स्वादिष्ट केक आदि बनाते समय एक साथ कुछ समय बिताने का आनंद ले सकते हैं।</string>
+    <string name="hindi_quarantine_acts_read_book_para_3">अपने घर के आसपास एक आरामदायक जगह खोजें। एक किताब पकड़ो और उसमें डूब जाओ; आपके पास पालन करने के लिए कोई समय सीमा या कार्यक्रम नहीं है।</string>
+    <string name="hindi_quarantine_acts_friends_para_4">चाहे आप व्हाट्सएप, स्काइप, नेटफ्लिक्स पार्टी, या किसी अन्य प्लेटफॉर्म का उपयोग करना पसंद करते हैं, जो आपको पसंद है, अपने दोस्तों से जुड़ने के लिए हर दिन कुछ समय निकालें।</string>
+    <string name="hindi_quarantine_acts_watch_sports_para_5">अभी टीवी पर देखने के लिए कोई लाइव खेल नहीं हैं। लेकिन दुनिया भर में कुछ आश्चर्यजनक चल रहा है: इतिहास के कई क्लासिक खेल मैच टीवी पर फिर से खेले जा रहे हैं!</string>
+    <string name="hindi_quarantine_acts_watch_movies_para_6">हम हमेशा नए शो, सीरीज और फिल्में देखने के लिए अधिक से अधिक समय चाहते हैं। नेटफ्लिक्स की विश्व प्रसिद्ध और व्यसनी La Casa de Papel (Money Heist) सीरीज का सबसे नया सीजन कुछ ही हफ्ते पहले सामने आया था।</string>
+    <string name="hindi_quarantine_acts_learn_lang_para_7">डुओलिंगो जैसे ऐप को डाउनलोड करना, जिस भाषा को आप सीखना चाहते हैं उसे चुनना और हर दिन थोड़ा-थोड़ा करना जितना आसान है।</string>
+
+    <string name="guj_quarantine_acts_exercise_para_1">કસરત મનને ખાલી કરે છે અને તમને સકારાત્મકતા અને શક્તિથી ભરે છે. આગલા દિવસ માટે યોગ્ય માનસિકતા મેળવવા માટે પરફેક્ટ. દરરોજ ઓછામાં ઓછો એક જિમ વર્ગ કરવાનો પ્રયાસ કરો.</string>
+    <string name="guj_quarantine_acts_new_recipes_para_2">તે આટલી મનોહર પ્રવૃત્તિ છે કે આપણે અમારા પરિવારો સાથે કરી શકીએ છીએ અને સાથે મળીને થોડો સમય પસાર કરવામાં આનંદ કરી શકીએ છીએ, જ્યારે સ્વાદિષ્ટ કેક વગેરે રાંધીએ છીએ.</string>
+    <string name="guj_quarantine_acts_read_book_para_3">તમારા ઘરની આસપાસ એક આરામદાયક સ્થળ શોધો. કોઈ પુસ્તક પડાવી લો અને તેમાં ડૂબી જાઓ; તમારી પાસે અનુસરવા માટે કોઈ સમય મર્યાદા અથવા સમયપત્રક નથી.</string>
+    <string name="guj_quarantine_acts_friends_para_4">શું તમે વોટ્સએપ, સ્કાયપે, નેટફ્લિક્સ પાર્ટી અથવા તમને ગમે તેવું અન્ય પ્લેટફોર્મ વાપરવાનું પસંદ કરો છો, તમારા મિત્રો સાથે જોડાવા માટે દરરોજ એક મૂવમેન્ટ લો.</string>
+    <string name="guj_quarantine_acts_watch_sports_para_5">અત્યારે ટીવી પર જોવા માટે કોઈ લાઇવ સ્પોર્ટ્સ નથી. પરંતુ વિશ્વભરમાં કંઈક આશ્ચર્યજનક રીતે ચાલી રહ્યું છે: ઇતિહાસની ઘણી ક્લાસિક રમતોની મેચ ટીવી પર ફરીથી ચલાવવામાં આવી રહી છે!</string>
+    <string name="guj_quarantine_acts_watch_movies_para_6">અમે હંમેશાં નવા શો, સિરીઝ અને મૂવીઝ જોવા માટે વધુને વધુ સમય માંગીએ છીએ. નેટફ્લિક્સની વિશ્વ વિખ્યાત અને વ્યસન લા કાસા ડી પેપેલ (મની હેઇસ્ટ) શ્રેણીની નવી સિઝન થોડા અઠવાડિયા પહેલા જ બહાર આવી હતી. </string>
+    <string name="guj_quarantine_acts_learn_lang_para_7">તમે જે ભાષા શીખવા માંગતા હો તે પસંદ કરીને અને તેમાંથી દરરોજ થોડુંક કરવું, તે ડ્યુઓલિંગો જેવી એપ્લિકેશન ડાઉનલોડ કરવા જેટલું સરળ છે. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 </resources>
