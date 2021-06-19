@@ -1,11 +1,11 @@
 # COVID-19-Testing-App
 An Android based COVID-19 tracking app which have these informations :-
 
--COVID 19 Symptoms 
--COVID 19 Precautions 
--COVID 19 Live Patient Counter
--COVID 19 Soft Testing
--COVID 19 Detector
+1. COVID 19 Symptoms 
+2. COVID 19 Precautions 
+3. COVID 19 Live Patient Counter
+5. COVID 19 Soft Testing
+6. COVID 19 Detector
 
 Detail Functionalities of Domain
 
