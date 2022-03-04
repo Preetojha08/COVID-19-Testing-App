@@ -26,6 +26,7 @@ public class OnBoardingActivity extends AppCompatActivity {
 
     TextView tv_pervious,tv_next;
     int button_counter=0;
+    int a=0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
