@@ -8,9 +8,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/icon_bg2.xml" value="0.122" />
         <entry key="app/src/main/res/drawable/back_generic.xml" value="0.17407407407407408" />
         <entry key="app/src/main/res/drawable/back_generic2.xml" value="0.17407407407407408" />
         <entry key="app/src/main/res/drawable/back_generic3.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/drawable/icon_bg.xml" value="0.122" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.18518518518518517" />
         <entry key="app/src/main/res/layout/activity_symptoms.xml" value="0.18518518518518517" />
         <entry key="app/src/main/res/layout/activity_userdetails.xml" value="0.25" />
       </map>
