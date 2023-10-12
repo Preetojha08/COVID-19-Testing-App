@@ -20,7 +20,7 @@ Detail Functionalities of Domain
 
 Screen Shots
 
-Splash Screen | Home Screen | Safety Majors Screen | Common Symptoms Screen | Hindi Test Screen | Result Screen
+Splash Screen | Home Screen | Safety Majors Screen | Syptoms Screen | Hindi Test Screen | Result Screen
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
 ![0](https://github.com/Preetojha08/COVID-19-Testing-App/assets/47290783/528922bf-dd34-4b14-80bf-0420c4a81910) | ![1](https://github.com/Preetojha08/COVID-19-Testing-App/assets/47290783/709c1b96-cc1f-4dd1-a8c4-371cfe7aa015) | ![2](https://github.com/Preetojha08/COVID-19-Testing-App/assets/47290783/598136b0-6578-483f-b14d-9d3b52bd21b6) | ![3](https://github.com/Preetojha08/COVID-19-Testing-App/assets/47290783/41df1c84-c619-44cf-ab9f-08d212977153) | ![4](https://github.com/Preetojha08/COVID-19-Testing-App/assets/47290783/c14355fc-47f9-4301-9597-2b68770ebc40) | ![5](https://github.com/Preetojha08/COVID-19-Testing-App/assets/47290783/72ddd882-6e3d-44fb-9d29-7d1a95941e9c)
 
